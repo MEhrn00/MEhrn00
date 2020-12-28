@@ -13,7 +13,7 @@ The **correct** order:
  - Makefile
 
 # CTFs
-Community writeups for CTF challenges I've written :)
+Community writeups for CTF challenges I've written :smiley:
 ---
 * [NahamCon CTF 2020](https://ctftime.org/event/1067)
   - Binary Exploitation
