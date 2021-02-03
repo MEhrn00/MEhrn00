@@ -9,8 +9,8 @@ The **correct** order:
  - C
  - Python
  - Go
- - Dockerfile
- - Makefile
+ - Rust
+ - C++
 
 # CTFs
 Community writeups for CTF challenges I've written :smiley:
@@ -46,3 +46,10 @@ Community writeups for CTF challenges I've written :smiley:
     - [Name Tag](https://ctftime.org/task/13169)
     - [Sea Shells](https://ctftime.org/task/13169)
     - Gone Shopping?
+---
+* [0x41414141 CTF](https://ctftime.org/event/1249)
+  - Binary Exploitation
+    - [External](https://ctftime.org/task/14609)
+    - [Echo](https://ctftime.org/task/14658)
+  - Reverse Engineering
+    - [x and or](https://ctftime.org/task/14607)
